@@ -1,7 +1,7 @@
 # QA
 
-##Test scenario 
+## Test scenario 
 
-##Test cases
+## Test cases
 
-##Declaration of bugs
+## Declaration of bugs
